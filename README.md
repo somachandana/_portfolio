@@ -6,12 +6,17 @@ Welcome to my Data Science and Data Analysis Portfolio. This compilation showcas
 
   ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Loan Status Prediction ](https://github.com/Josmin123/Loan-status-prediction)**
+<img align="left" width="250" height="150" src="https://github.com/Josmin123/_portfolio/blob/main/loan%20image.png"> **[Loan Status Prediction ](https://github.com/Josmin123/Loan-status-prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+ In this project, I utilized Logistic Regression to develop a model that predicts the approval status of loan applications. The goal was to identify whether a loan application would be approved or denied based on various applicant characteristics such as credit history, income, loan amount, and other pertinent factors.
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Fake News Detection](https://github.com/Josmin123/Fake-news-detection)**
+
+The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
 
 
 
