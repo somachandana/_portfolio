@@ -12,9 +12,15 @@ Welcome to my Data Science and Data Analysis Portfolio. This compilation showcas
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Fake News Detection](https://github.com/Josmin123/Fake-news-detection)**
+<img align="left" width="250" height="150" src="https://github.com/Josmin123/_portfolio/blob/main/fake%20news.jpg"> **[Fake News Detection](https://github.com/Josmin123/Fake-news-detection)**
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+The objective of this project is to analyze a dataset of news articles and predict whether a given article is fake or real. By employing various Natural Language Processing (NLP) techniques and fitting a Support Vector Machine (SVM) model, the project aims to enhance the accuracy of fake news detection. Additionally, text preprocessing and feature extraction were performed to prepare the data for effective model training.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Twitter Sentiment Analysis](https://github.com/Josmin123/Twitter-sentiment-analysis)**
+ 
+The objective of this project is to analyze tweets related to COVID-19 vaccination and determine the sentiment behind them, categorizing the sentiment as positive, negative, or neutral. By employing various Natural Language Processing (NLP) techniques and fitting a Logistic Regression model, the project aims to accurately predict the sentiment expressed in tweets. This analysis helps understand public opinion and trends regarding COVID-19 vaccination on social media.
 
 #
 
