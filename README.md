@@ -1,2 +1,2 @@
-## DATA SCIENCE PORTFOLIO -Josmin Theresa Babu
+## Data Science Portfolio - Josmin Theresa Babu
 
