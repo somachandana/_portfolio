@@ -18,7 +18,7 @@ The objective of this project is to analyze a dataset of news articles and predi
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Twitter Sentiment Analysis](https://github.com/Josmin123/Twitter-sentiment-analysis)**
+<img align="left" width="250" height="150" src="https://github.com/Josmin123/_portfolio/blob/main/twitter-sentiment-analysis.jpg"> **[Twitter Sentiment Analysis](https://github.com/Josmin123/Twitter-sentiment-analysis)**
  
 The objective of this project is to analyze tweets related to COVID-19 vaccination and determine the sentiment behind them, categorizing the sentiment as positive, negative, or neutral. By employing various Natural Language Processing (NLP) techniques and fitting a Logistic Regression model, the project aims to accurately predict the sentiment expressed in tweets. This analysis helps understand public opinion and trends regarding COVID-19 vaccination on social media.
 
