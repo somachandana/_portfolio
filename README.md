@@ -6,7 +6,7 @@ Welcome to my Data Science and Data Analysis Portfolio. This compilation showcas
 
   ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/Josmin123/_portfolio/blob/master/Images/credit%20card.jpg"> **[Loan Status Prediction ](https://github.com/Josmin123/Loan-status-prediction)**
+<img align="left" width="250" height="150" src="Images/loan image.png"> **[Loan Status Prediction ](https://github.com/Josmin123/Loan-status-prediction)**
 
  In this project, I utilized Logistic Regression to develop a model that predicts the approval status of loan applications. The goal was to identify whether a loan application would be approved or denied based on various applicant characteristics such as credit history, income, loan amount, and other pertinent factors.
 
